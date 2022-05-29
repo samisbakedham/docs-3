@@ -30,6 +30,7 @@ description: Hosted Projects list, public and private chains using BlockScout
 {% tab title="Self-hosted" %}
 **Self Hosted Mainnets**
 
+* [Candle](https://candleexplorer.com)
 * [Celo](https://explorer.celo.org)
 * [Fuse Network](https://explorer.fuse.io)
 * [Quadrans](https://explorer.quadrans.io/)
