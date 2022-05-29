@@ -25,6 +25,15 @@ Sites can be configured to reflect a chain's unique branding, color scheme, logo
 
 ![Mordor ETC Explorer](../../.gitbook/assets/mordor-testnet.png)
 
+### CANDLE
+
+> **Project:** [Candle](https://candlelabs.org/)
+> **BlockScout URL:** [https://candleexplorer.com](https://candleexplorer.com)****\
+> **Description:** The standard, stable network.
+
+![CANDLE Explorer ](../../.gitbook/assets/candle.png)
+
+
 ### CELO
 
 > **Project:** [Celo](https://celo.org/)
